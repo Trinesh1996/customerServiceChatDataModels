@@ -1,0 +1,33 @@
+{
+    "$schema": 
+    [
+        {
+            "user_id": "1234"
+            ,"user_name": "Trinesh"
+            ,"user_email": "trinesh@gmail.com"
+            ,"password": "198r19f8h19c17etfg19uf917eg9e"
+            ,"user_role": "customer_service_agent"
+            ,"permissions": ["r", "w", "u", "d"]
+            ,"admin": false
+            ,"contact": "+27 431 4134"
+            ,"chatWidgetModify": false
+            ,"setChannelAccess": false
+            ,"modifySystemTheme": true
+            ,"integrationManagement": false
+        }
+        ,{
+            "user_id": "524542"
+            ,"user_name": "Gwendolyn"
+            ,"user_email": "gwendolyn@gmail.com"
+            ,"password": "doduafgq9d7ft9qd7ft9ad7fgyadgf9"
+            ,"user_role": "admin"
+            ,"permissions": ["r", "w", "u", "d", "FA"]
+            ,"admin": true
+            ,"contact": "+27 234 5413"
+            ,"chatWidgetModify": true
+            ,"setChannelAccess": true
+            ,"modifySystemTheme": true
+            ,"integrationManagement": true
+        }
+    ]
+}
