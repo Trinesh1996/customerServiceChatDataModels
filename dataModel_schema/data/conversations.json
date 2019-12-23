@@ -1,0 +1,69 @@
+[
+    {
+        "conversation_id": 1
+        ,"agent_id": "5315135"
+        ,"initiatedAt": 313413413435
+        ,"closed": true
+        ,"transfered": false
+        ,"transfered_from_agent_id": 31324
+        ,"interationScore": 6
+        ,"closedAt": 1231239874
+        ,"customer_id": 14314
+        ,"messages":
+        [
+            {"message_no": 0, "customer_id": 1, "reply": "hello <CRep1>", "timestamp": 139476134}
+            ,{"message_no": 1, "customer_id": 1, "reply": "My Name is Jake! <CRep2>", "timestamp": 139476134}
+            ,{"message_no": 0, "agent_id": "123434", "reply": "hey there jake! <ARep1>", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 1, "agent_id": "123434", "reply": "How can I Help you today?", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 2, "customer_id": 1, "reply": "Im just browsing your website and came accross your live chat feature.", "timestamp": 139476134}
+            ,{"message_no": 3, "customer_id": 1, "reply": "I am a software dev, thinking of building my own live chat system", "timestamp": 139476134}
+            ,{"message_no": 2, "agent_id": "123434", "reply": "really cool!, It seems like this is not my forte, will transfer you to an agent that can assist.", "timestamp": 139476134, "quickReply": false}
+            ,{"message_no": 3, "agent_id": "123434", "reply": "Pleas hold on", "timestamp": 139476134, "quickReply": false}
+            ,{"message_no": 4, "customer_id": 1, "reply": "okay", "timestamp": 139476134}
+            ,{"message_no": 4, "agent_id": "33155", "reply": "Hey there So I see you are software dev, have you chacked out our marketplace?", "timestamp": 139476134}
+            ,{"message_no": 5, "agent_id": "33155", "reply": "Good Luck!", "timestamp": 139476134, "quickReply": true}
+        ]
+    }
+    ,{
+        "conversation_id": 2
+        ,"initiatedAt": 313413413435
+        ,"closed": false
+        ,"transfered": true
+        ,"transfered_from_agent_id": 31324
+        ,"interationScore": null
+        ,"closedAt": null
+        ,"customer_id": 14314
+        ,"messages":
+        [
+            {"message_no": 0, "customer_id": 1, "reply": "hello <CRep1>", "timestamp": 139476134}
+            ,{"message_no": 1, "customer_id": 1, "reply": "My Name is Jake! <CRep2>", "timestamp": 139476134}
+            ,{"message_no": 0, "agent_id": "123434", "reply": "hey there jake! <ARep1>", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 1, "agent_id": "123434", "reply": "How can I Help you today?", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 2, "customer_id": 1, "reply": "Im just browsing your website and came accross your live chat feature.", "timestamp": 139476134}
+            ,{"message_no": 3, "customer_id": 1, "reply": "I am a software dev, thinking of building my own live chat system", "timestamp": 139476134}
+            ,{"message_no": 2, "agent_id": "123434", "reply": "really cool!", "timestamp": 139476134, "quickReply": false}
+            ,{"message_no": 3, "agent_id": "123434", "reply": "Good Luck!", "timestamp": 139476134, "quickReply": true}
+        ]
+    }
+    ,{
+        "conversation_id": 3
+        ,"initiatedAt": 313413413435
+        ,"closed": false
+        ,"interationScore": null
+        ,"closedAt": null
+        ,"customer_id": 14314
+        ,"transferedChat": true
+        ,"transferedToAgent_id": 31244
+        ,"messages":
+        [
+            {"message_no": 0, "customer_id": 1, "reply": "hello <CRep1>", "timestamp": 139476134}
+            ,{"message_no": 1, "customer_id": 1, "reply": "My Name is Jake! <CRep2>", "timestamp": 139476134}
+            ,{"message_no": 0, "agent_id": "123434", "reply": "hey there jake! <ARep1>", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 1, "agent_id": "123434", "reply": "How can I Help you today?", "timestamp": 139476134, "quickReply": true}
+            ,{"message_no": 2, "customer_id": 1, "reply": "Im just browsing your website and came accross your live chat feature.", "timestamp": 139476134}
+            ,{"message_no": 3, "customer_id": 1, "reply": "I am a software dev, thinking of building my own live chat system", "timestamp": 139476134}
+            ,{"message_no": 2, "agent_id": "123434", "reply": "really cool!", "timestamp": 139476134, "quickReply": false}
+            ,{"message_no": 3, "agent_id": "123434", "reply": "Good Luck!", "timestamp": 139476134, "quickReply": true}
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "customer_id": 1937461,
+        "name": "Jack"
+        ,"surname": "Beanstalk"
+        ,"email": "jackbeanstalk@gmail.com"
+        ,"contact": "+27 763 7878"
+        ,"address":
+        {
+            "street": "8 Bean Road, Rosevale"
+            ,"city": "Stalk City"
+            ,"postal": 1234
+            ,"country": "Australa"
+        }
+    }
+    ,
+    {
+        "customer_id": 541514,
+        "name": "Sydney"
+        ,"surname": "Scream"
+        ,"email": "jsydneyscreamk@gmail.com"
+        ,"contact": "+27 134 5311"
+        ,"address":
+        {
+            "street": "8 Bean Road, Rosevale"
+            ,"city": "Stalk City"
+            ,"postal": 1234
+            ,"country": "Australa"
+        }
+    }
+    ,
+    {
+        "customer_id": 413
+        ,"name": "Jason"
+        ,"email": "jason@gmail.com"
+    }
+]
